@@ -1,8 +1,7 @@
-# Hello, I'm Eric Babi
+# Hello, I'm Eric, an IT Project Coordinator, Help Desk Support and Enthusiastic Problem Solver
 
-## IT Project Coordinator | IT Professional | Enthusiastic Problem Solver
+Welcome to my GitHub profile! I'm passionate about IT and how the field has evolved mainframes to personal computers, mobile devices, IoT, technologies like cloud computing, virtual machines, data science and AI. All this has triggered innovation in how we interact and collaborate using technology, but this has also exposed organisations, individuals and companies to a lot of secirity risk, hence my desire to graduate to the field of Cybersecurity. 
 
-Welcome to my GitHub profile! I'm a passionate IT professional with a knack for project coordination and a strong technical background. Over the years, I've successfully managed and delivered a variety of IT projects, ensuring seamless collaboration between cross-functional teams.
 
 ### 💼 Professional Summary
 
