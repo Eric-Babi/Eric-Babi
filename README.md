@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm passionate about IT and how the field has evolved from mainframes to personal computers, mobile devices, IoT, technologies like cloud computing, virtual machines, data science and AI. All this has triggered innovation in how we interact and collaborate using technology, but this has also exposed organisations, individuals and companies to a lot of security risk. With that in mind, my goal is to work in Cybersecurty and Digital Forensics. 
 
 
-### 💼 Professional Summary
+### 💼 Infomation Technology Projects
 
-- **IT Project Coordination:** Experienced in orchestrating end-to-end project lifecycles, from initiation to delivery. Proficient in resource allocation, risk management, and stakeholder communication to ensure project success.
+- **OsTicket (Open Source Help Desk Ticketing System) 
 
 - **Technical Expertise:** Adept at working with diverse technologies and platforms. From infrastructure management to application deployment, I bring a deep understanding of IT systems and a hands-on approach to problem-solving.
 
