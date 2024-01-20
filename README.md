@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about IT and how the field has evol
 
 ### 💼 Infomation Technology Projects
 
-- **OsTicket (Open Source Help Desk Ticketing System) 
+- OsTicket (Open Source Help Desk Ticketing System) 
 
 - **Technical Expertise:** Adept at working with diverse technologies and platforms. From infrastructure management to application deployment, I bring a deep understanding of IT systems and a hands-on approach to problem-solving.
 
