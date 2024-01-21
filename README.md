@@ -1,4 +1,4 @@
-# Hello, I'm Eric, an IT Project Coordinator, Help Desk Support and Enthusiastic Problem Solver
+# Hello, I'm Eric, <a href="www.linkedin.com/in/eric-babi">IT Professional</a>💻</h1>
 
 Welcome to my GitHub profile! I'm passionate about IT and how the field has evolved from mainframes to personal computers, mobile devices, IoT, technologies like cloud computing, virtual machines, data science and AI. All this has triggered innovation in how we interact and collaborate using technology, but this has also exposed organisations, individuals and companies to a lot of security risk. With that in mind, my goal is to work in Cybersecurty and Digital Forensics. 
 
