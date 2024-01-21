@@ -1,6 +1,6 @@
 # Hello, I'm Eric, an <a href="www.linkedin.com/in/eric-babi">IT Project Coordinator and Help Desk Support</a></h1>
 
-Welcome to my GitHub profile! I'm passionate about IT and how the field has evolved from mainframes to personal computers, mobile devices, IoT, technologies like cloud computing, virtual machines, data science and AI. All this has triggered innovation in how we interact and collaborate using technology, but this has also exposed individuals, organisations,  and governments to digital attacks. With that in mind, my goal is to work in Cybersecurty and Digital Forensics. 
+Welcome to my GitHub profile! I'm passionate about IT and how the field has evolved from mainframes to personal computers, mobile devices, IoT, technologies like cloud computing, virtual machines, data science and AI. All this has triggered innovation in how we interact and collaborate using technology, but this has also exposed individuals, organisations,  and governments to digital attacks. With that in mind, my goal is to work in Cybersecurty and Digital Forensics to contribute to the safeguarding of data and networked systems.  
 
 
 ### 💼 Infomation Technology Projects
