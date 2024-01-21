@@ -6,9 +6,12 @@ Welcome to my GitHub profile! I'm passionate about IT and how the field has evol
 ### 💼 Infomation Technology Projects
 
 - **OsTicket (Open Source Help Desk Ticketing System)**
-- <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p> 
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/hcorry2020/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/hcorry2020//post-install-config)
+- <b>Microsoft Azure (Cloud Computing)</b>
+  - [Configuring Active Directory within Azure VMs](https://github.com/hcorry2020/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/hcorry2020/azure-network-protocols)
 
 - **Technical Expertise:** Adept at working with diverse technologies and platforms. From infrastructure management to application deployment, I bring a deep understanding of IT systems and a hands-on approach to problem-solving.
 
