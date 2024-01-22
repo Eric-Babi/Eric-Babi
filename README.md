@@ -4,9 +4,7 @@ Welcome to my GitHub profile! I'm passionate about IT and how the field has evol
 
 
 ### 💼 Infomation Technology Projects
-
-- **OsTicket (Open Source Help Desk Ticketing System)**
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>OsTicket (Open Source Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/hcorry2020/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/hcorry2020//post-install-config)
 - <b>Microsoft Azure (Cloud Computing)</b>
