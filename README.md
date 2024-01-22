@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about IT and how the field has evol
 ### 💼 Infomation Technology Projects
 - <b>OsTicket (Open Source Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Eric-Babi/Osticket-pre-conditions)
-  - [osTicket: Post-Installation Configuration](https://github.com/Eric-Babi/post-installation-configurations))
+  - [osTicket: Post-Installation Configuration](https://github.com/Eric-Babi/post-installation-configurations)
 - <b>Microsoft Azure (Cloud Computing)</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/hcorry2020/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/hcorry2020/azure-network-protocols)
