@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm passionate about IT and how the field has evol
   - [Configuring Active Directory within Azure VMs](https://github.com/hcorry2020/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/hcorry2020/azure-network-protocols)
 - <b>Inspecting network traffic (Wireshark)</b>
-   - 
-
+  - [osTicket: Prerequisites and Installation]
 - **Technical Expertise:** Adept at working with diverse technologies and platforms. From infrastructure management to application deployment, I bring a deep understanding of IT systems and a hands-on approach to problem-solving.
 
 - **Collaborative Approach:** I thrive in collaborative environments, fostering teamwork and communication across departments. My goal is to create synergy between technical teams, project stakeholders, and end-users.
