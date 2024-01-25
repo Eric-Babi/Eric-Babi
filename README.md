@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about IT and how the field has evol
 - <b>Microsoft Azure (Cloud Computing)</b>
   - [Microsoft Azure Storage Account](https://github.com/Eric-Babi/Microsoft-Azure-Storage-Account)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Eric-Babi/Installing-and-Configuring-On-Premise-AD-in-Azure-VM)
-  - [Azure File Permissions](https://github.com/roderrickcourtney/Azure-File-Permissions)
+  - [Azure File Permissions](https://github.com/Eric-Babi/Azure-File-Permissions-and-Security-Groups)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/roderrickcourtney/azure-network-protocols)
 - <b>Inspecting network traffic (Wireshark)</b>
   - [osTicket: Prerequisites and Installation]
