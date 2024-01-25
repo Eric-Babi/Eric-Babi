@@ -10,8 +10,9 @@ Welcome to my GitHub profile! I'm passionate about IT and how the field has evol
   - [osTicket: Ticket Life-cycle](https://github.com/Eric-Babi/Osticket---Ticket-Lifecycle-Creation-to-Resolution)
 - <b>Microsoft Azure (Cloud Computing)</b>
   - [Microsoft Azure Storage Account](https://github.com/Eric-Babi/Microsoft-Azure-Storage-Account)
-  - [Configuring Active Directory within Azure VMs](https://github.com/Eric-Babi/Installing-and-Configuring-On-Premise-AD-in-Azure-VM)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/hcorry2020/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Eric-Babi/Installing-and-Configuring-On-Premise-AD-in-Azure-VM)
+  - [Azure File Permissions](https://github.com/roderrickcourtney/Azure-File-Permissions)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/roderrickcourtney/azure-network-protocols)
 - <b>Inspecting network traffic (Wireshark)</b>
   - [osTicket: Prerequisites and Installation]
 - **Technical Expertise:** Adept at working with diverse technologies and platforms. From infrastructure management to application deployment, I bring a deep understanding of IT systems and a hands-on approach to problem-solving.
