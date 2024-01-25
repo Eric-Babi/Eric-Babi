@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about IT and how the field has evol
   - [osTicket: Post-Installation Configuration](https://github.com/Eric-Babi/post-installation-configurations)
   - [osTicket: Ticket Life-cycle](https://github.com/Eric-Babi/Osticket---Ticket-Lifecycle-Creation-to-Resolution)
 - <b>Microsoft Azure (Cloud Computing)</b>
-  - Microsoft Azure Storage Account [
+  - Microsoft Azure Storage Account [https://github.com/Eric-Babi/Microsoft-Azure-Storage-Account]
   - [Configuring Active Directory within Azure VMs](https://github.com/Eric-Babi/Installing-and-Configuring-On-Premise-AD-in-Azure-VM)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/hcorry2020/azure-network-protocols)
 - <b>Inspecting network traffic (Wireshark)</b>
