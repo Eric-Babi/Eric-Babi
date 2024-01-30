@@ -19,12 +19,6 @@ Welcome to my GitHub profile! I'm passionate about IT and how the field has evol
 - LinkedIn: www.linkedin.com/in/eric-babi 
 - Email: ebabi12@gmail.com
 
-### Recent Projects
-
-1. **Caseload Management System**
-   - Oversaw the setting up and configuration of a web applcation for job seekers 
-
-I'm always open to new opportunities, collaboration, and discussions within the IT community. If you're interested in connecting or exploring potential collaborations, feel free to reach out! Let's build something amazing together.
 
 
 
